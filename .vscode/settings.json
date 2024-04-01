@@ -1,6 +1,7 @@
 {
   "files.associations": {
     "*.py": "python",
+    "*.html": "html",
     "iostream": "cpp",
     "ostream": "cpp",
     "limits": "cpp",
@@ -46,6 +47,7 @@
     "sstream": "cpp",
     "stdexcept": "cpp",
     "streambuf": "cpp",
-    "typeinfo": "cpp"
+    "typeinfo": "cpp",
+    "bitset": "cpp"
   }
 }
