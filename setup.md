@@ -99,4 +99,5 @@
             ]
         }
 
-6.  `g++ -o ./build/test test.cpp`
+6.  `g++ -o ./실행파일경로 test.cpp`로 빌드
+7. ./test 로 실행.
