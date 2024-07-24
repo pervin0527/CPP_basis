@@ -39,5 +39,9 @@ int main(){
     unsigned long unsLint = 17Lu; // 또는 17l
     unsigned long long unsLLint = 17LLu;
 
+    long num4 = 17l;
+    long long num5 = 17ll;
+    std::cout << "num4의 크기 : " << sizeof(num4) << " 17l의 크기" << sizeof(17l) << std::endl;
+    std::cout << "num5의 크기 : " << sizeof(num4) << " 17ll의 크기" << sizeof(17l) << std::endl;
     return 0;   
 }
